@@ -13,8 +13,8 @@ REPO_ID        = "Amar-S/MOVi-MC-AC"
 REPO_TYPE      = "dataset"
 LOCAL_TRAIN_DIR = "train"
 LOCAL_TEST_DIR  = "test"
-NUM_TRAIN = 2
-NUM_TEST  = 1
+NUM_TRAIN = 4
+NUM_TEST  = 4
 
 # — MAKE OUTPUT FOLDERS —
 os.makedirs(LOCAL_TRAIN_DIR, exist_ok=True)
